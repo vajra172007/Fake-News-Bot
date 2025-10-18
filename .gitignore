@@ -106,3 +106,22 @@ GEMINI_*.txt
 GEMINI_*.md
 *EXPLAINED.md
 DYNAMIC_*.md
+
+# Local Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+whatsapp/node_modules/
+npm-debug.log
+package-lock.json
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
